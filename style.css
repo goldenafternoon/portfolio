@@ -1,0 +1,30 @@
+body {
+	background-image: url(https://66.media.tumblr.com/af324c000cb9f8c207bc32b36de24895/tumblr_n323zvowre1rjs5bwo1_500.jpg);
+	background-size: cover;
+}
+
+.header {
+	text-align: center;
+	vertical-align: text-top;
+	margin-top: 20%;
+	color: #6b0932;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	font-stretch: ultra-condensed;
+	letter-spacing: 2px;
+}
+
+#link {
+	color: #03201ad8;
+	border: solid;
+	border-width: 2px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border-color: white;
+	margin-left: 10px;
+	margin-right: 10px;
+	text-decoration: none;
+	font-family: Impact;
+	font-stretch: ultra-condensed;
+}
