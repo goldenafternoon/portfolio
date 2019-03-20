@@ -7,21 +7,21 @@ body {
 	text-align: center;
 	vertical-align: text-top;
 	margin-top: 20%;
-	color: #D4E5E9;
+	color: rgb(88, 192, 192);
 	font-family: helvetica;
 	font-stretch: ultra-condensed;
 	letter-spacing: 2px;
 }
 
 #link {
-	color: #D4E5E9;
+	color: rgb(11, 94, 112);
 	border: solid;
 	border-width: 2px;
 	padding-left: 10px;
 	padding-right: 10px;
 	padding-top: 5px;
 	padding-bottom: 5px;
-	border-color: white;
+	border-color: rgb(8, 76, 99);
 	margin-left: 10px;
 	margin-right: 10px;
 	text-decoration: none;
